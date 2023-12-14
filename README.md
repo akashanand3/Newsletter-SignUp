@@ -1,1 +1,1 @@
-# Newsletter-SignUp
+# Newsletter-Signup
